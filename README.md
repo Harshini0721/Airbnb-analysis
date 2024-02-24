@@ -6,7 +6,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 ## Features:
 
--Data Collection: Gathered Airbnb data from MongoDB.
+- Data Collection: Gathered Airbnb data from MongoDB.
 -Data Preprocessing: Cleaned and prepared the data for analysis.
 -ETL (Extract, Transform, Load): Converted data from MongoDB to structured DataFrames.
 -Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
